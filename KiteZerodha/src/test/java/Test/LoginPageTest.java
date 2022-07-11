@@ -52,8 +52,16 @@ public class LoginPageTest {
 		
 	}
 	
-	
-	
+	@Test
+	public void Login() 
+	{
+		System.out.println("12345");
+	}
+	@Test
+	public void Signup()
+	{
+		System.out.println(" 5678");
+	}
 	
 
 	
